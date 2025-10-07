@@ -1,0 +1,7 @@
+﻿  blue_square.cpp
+C:\Users\jenis\source\repos\OpenGL\OpenGL\blue_square.cpp(133,58): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\jenis\source\repos\OpenGL\OpenGL\blue_square.cpp(134,58): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\jenis\source\repos\OpenGL\OpenGL\blue_square.cpp(135,58): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  OpenGL.vcxproj -> C:\Users\jenis\source\repos\OpenGL\x64\Debug\OpenGL.exe
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\bin\x64\freeglut.dll
+  Скопировано файлов:         1.
